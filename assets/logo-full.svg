@@ -1,9 +1,1 @@
-‎<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 128">
-‎  <rect width="128" height="128" rx="24" fill="#e10600"/>
-‎  <path d="M31 91V35h13l20 28 20-28h13v56H83V59L64 85 45 59v32z"
-‎        fill="#f4eee4"/>
-‎  <text x="155" y="82" font-family="Arial,sans-serif"
-‎        font-size="52" font-weight="800" fill="#171313">NAHOURI</text>
-‎  <text x="405" y="82" font-family="Arial,sans-serif"
-‎        font-size="52" font-weight="800" fill="#e10600">TECH</text>
-‎</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 128"><rect width="128" height="128" rx="24" fill="#e10600"/><path d="M31 91V35h13l20 28 20-28h13v56H83V59L64 85 45 59v32z" fill="#f4eee4"/><text x="155" y="82" font-family="Arial, sans-serif" font-weight="800" font-size="52" fill="#171313">NAHOURI</text><text x="405" y="82" font-family="Arial, sans-serif" font-weight="800" font-size="52" fill="#e10600">TECH</text></svg>
